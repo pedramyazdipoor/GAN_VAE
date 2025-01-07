@@ -7,7 +7,8 @@ Our goal is to develop an image generation model that we can use to augment our 
 
 The architecture of the image generation model is pretty creative. We first train a variational autoencoder to learn latent encodings of real crack images; Then we put decoder away and latent vectors obtained from the variational encoder are used to do sampling. This sampling is essential for providing randomness needed to generate new images. After that, we feed the sampled vector as input to the DCGAN model. Finally, we do the same thing with discriminator as we did to the decoder!
 
-![image](https://github.com/user-attachments/assets/58c3c7f3-8ccd-4be6-b316-87e808dfca16)
+![image](https://github.com/user-attachments/assets/894d690f-079e-400b-ae77-0c3cc782c54c)
+
 
 
 
