@@ -15,6 +15,7 @@ After training the VAE + DCGAN model, we fine-tuned the famous Faster R-CNN obje
 
 We evaluated our generative model even further by two known metrics: Inception score(IS) and Fréchet inception distance(FID). You can read more about them [here](https://ahujaniharika95.medium.com/inception-score-is-and-fr%C3%A9chet-inception-distance-fid-explained-2bc28a4faea7).
 
-
+## Conclusion
+The results show improvments with this data generation technique.
 
 
