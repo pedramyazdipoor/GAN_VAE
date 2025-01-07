@@ -1,6 +1,6 @@
 # **Virtual generation of pavement crack images**
 
-##### This is a full implementation of this [article](https://doi.org/10.1016/j.engappai.2021.104376) by me.
+This is a full implementation of this [article](https://doi.org/10.1016/j.engappai.2021.104376) by me.
 ### The dataset used in this project can be found [here](https://github.com/juhuyan/CrackDataset_DL_HY/tree/master/BoxLevel_Detection).
 
 ### Our goal is to develop an image generation model that we can use to augment our dataset by generating new but similar crack images to real ones in order to improve       Faster R-CNN performance in detecting pavement cracks.
