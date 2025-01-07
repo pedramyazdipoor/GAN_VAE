@@ -11,7 +11,7 @@ Image below is from [article](https://doi.org/10.1016/j.engappai.2021.104376):
 
 ![image](https://github.com/user-attachments/assets/894d690f-079e-400b-ae77-0c3cc782c54c)
 
-We evaluate our generative model further by two known metrics: Inception score(IS) and Fréchet inception distance(FID). You can read more about them [here](https://ahujaniharika95.medium.com/inception-score-is-and-fr%C3%A9chet-inception-distance-fid-explained-2bc28a4faea7)
+We evaluated our generative model even further by two known metrics: Inception score(IS) and Fréchet inception distance(FID). You can read more about them [here](https://ahujaniharika95.medium.com/inception-score-is-and-fr%C3%A9chet-inception-distance-fid-explained-2bc28a4faea7)
 
 
 
